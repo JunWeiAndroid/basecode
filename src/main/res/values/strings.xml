@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">common</string>
+    <string name="loading">正在加载…</string>
+    <string name="load_failed">加载失败，点击重试</string>
+    <string name="load_end">没有更多数据</string>
+    <string name="connect_failed">连接失败</string>
+    <string name="connect_timeout">连接超时</string>
+    <string name="data_parse_error">数据格式错误</string>
+</resources>
